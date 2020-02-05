@@ -1,0 +1,29 @@
+{
+  "name": "cucumber-helper",
+  "version": "1.0.0",
+  "description": "Adds extra functionality to the original cucumberjs package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgueta/cucumberjs-helper.git"
+  },
+  "keywords": [
+    "cucumber",
+    "before",
+    "after",
+    "beforeStep",
+    "afterStep"
+  ],
+  "author": "Shay Gueta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgueta/cucumberjs-helper/issues"
+  },
+  "homepage": "https://github.com/sgueta/cucumberjs-helper#readme",
+  "devDependencies": {
+    "cucumber": "^6.0.5"
+  }
+}
