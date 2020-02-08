@@ -9,7 +9,9 @@
   "author": "Shay G.",
   "license": "ISC",
   "dependencies": {
-    "cucumber": "^6.0.2",
     "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.5"
   }
 }

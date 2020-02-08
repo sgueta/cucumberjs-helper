@@ -1,6 +1,6 @@
 Feature: Test
 
-Scenario: simple search in google
-    Given browser is up and redirected to "http://www.google.com"
-    When user writes "free website" in search bar
-    Then verify list of sites is presented below
+Scenario: simple calculation test
+    Given variable "a" equals to "1"
+    When we add "2" to "a"
+    Then verify "a" equals to "3"

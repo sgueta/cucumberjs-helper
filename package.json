@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/sgueta/cucumberjs-helper#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
     "cucumber": "^6.0.5"
   }
 }
